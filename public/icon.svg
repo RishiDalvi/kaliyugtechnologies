@@ -1,0 +1,21 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @media (prefers-color-scheme: light) {
+      .background { fill: #0A0A0A; }
+      .foreground { fill: #FF9500; }
+    }
+    @media (prefers-color-scheme: dark) {
+      .background { fill: #FF9500; }
+      .foreground { fill: #0A0A0A; }
+    }
+  </style>
+  <g clip-path="url(#clip0_7960_43945)">
+    <rect class="background" width="180" height="180" rx="37" />
+    <text x="90" y="110" font-family="Nunito, sans-serif" font-size="80" font-weight="900" text-anchor="middle" class="foreground">KT</text>
+  </g>
+  <defs>
+    <clipPath id="clip0_7960_43945">
+      <rect width="180" height="180" fill="white" />
+    </clipPath>
+  </defs>
+</svg>
